@@ -1,0 +1,226 @@
+[
+  {
+    "name": "State Economic Council",
+    "description": "The State Economic Council is responsible for increasing economic development of the state by collecting statistics and performing analysis on the labor force, workforce and employer demographics, generational trends, etc.",
+    "searchUrl":"/search/?publisher__name=State Economic Council"
+  },
+  {
+    "name": "National Health Council",
+    "imageUrl": "https://dkan-default-content-files.s3.amazonaws.com/files/publishers/clipboard.png",
+    "description": "National Health Council is a working group that performs research and prepares reports to inform treatment and prevention programs nationally.",
+    "searchUrl":"/search/?publisher__name=National Health Council"
+  },
+  {
+    "name": "Committee on International Affairs",
+    "imageUrl": "https://dkan-default-content-files.s3.amazonaws.com/files/publishers/map.png",
+    "description": "The Committee on International Affairs is a working group to identify opportunities to learn from and collaborate with government and organizations across the globe.",
+    "searchUrl":"/search/?publisher__name=Committee on International Affairs"
+  },
+  {
+    "name": "Abu Dhabi Agriculture and Food Safety Authority",
+    "imageUrl": "/sites/default/files/2022-07/Abu Dhabi Agriculture and Food Safety Authority.png",
+    "description": "Abu Dhabi Agriculture and Food Safety Authority (ADAFSA) was established by Law No. 7 of 2019 to be the government entity that responsible for agriculture, food safety and food security affairs in the Emirate of Abu Dhabi, where it is concerned with the sustainable agricultural and food development sector to achieve the food security and enhance biosecurity that maintain animal and plant health.",
+    "searchUrl":"/search/?publisher__name=Abu Dhabi Agriculture and Food Safety Authority"
+  },
+   {
+    "name": "Abu Dhabi Sports Council",
+    "imageUrl": "/sites/default/files/2022-07/Abu Dhabi Sports Council logo.jpg",
+    "description": "Abu Dhabi Sports Council (ADSC) was established in 2006 by His Highness Sheikh Mohamed Bin Zayed Al Nahyan, Abu Dhabi Crown Prince and Deputy Supreme Commander of the UAE Armed Forces.ADSC is aligned to the emirateâ€™s leadership vision to develop sport and youth activities. The Council promotes an effective, emirate-wide sports calendar that stimulates the desire to participate in quality sports among all Abu Dhabi residents and helps the talented and motivated reach their sporting potential.",
+    "searchUrl":"/search/?publisher__name=Federal competitiveness and statistics authority"
+   },
+  {
+    "name": "Federal competitiveness and statistics authority",
+    "imageUrl": "/sites/default/files/2022-07/Federal competitiveness and statistics authority.png",
+    "description": "vThe Federal Competitiveness and Statistics Authority (FCSA) is a federal government authority reporting to UAE Cabinet; it was established according to federal decree number 6 /2015, aiming to develop the UAE's performance in the areas of competitiveness and statistics, through establishing an integrated national statistical system and regulating the statistical and competitiveness sector to achieve UAEâ€™s national interests.",
+    "searchUrl":"/search/?publisher__name=Federal competitiveness and statistics authority"
+   },
+    {
+    "name": "Department of Energy",
+    "imageUrl": "/sites/default/files/2022-07/Department of Energy.png",
+    "description": "Abu Dhabi Department of Energy was established in accordance with Law No. 11 of 2018 to driving the emirates energy transition efforts with a clear focus on creating a sector that promotes economic growth and social development, and environmental sustainability.",
+    "searchUrl":"/search/?publisher__name=Department of Energy"
+   },
+    {
+    "name": "Abu Dhabi Quality and Conformity Council",
+    "imageUrl": "/sites/default/files/2022-07/Abu Dhabi Quality and Conformity Council.png",
+    "description": "Abu Dhabi Quality and Conformity Council (QCC) is an Abu Dhabi government entity established in accordance with Local Law No. (3) of 2009 to raise the quality of Abu .",
+    "searchUrl":"/search/?publisher__name=Abu Dhabi Quality and Conformity Council"
+   },
+    {
+    "name": "Department of Economic Development",
+    "imageUrl": "/sites/default/files/2022-07/Department of Economic Development.png",
+    "description": "Abu Dhabi Department of Economic Development (ADDED) regulates the business sector and leads economic initiatives to achieve knowledge-based, diversified and sustainable economic growth. This role is in line with Law No. 7 of 2018.",
+    "searchUrl":"/search/?publisher__name=Department of Economic Development"
+   },
+    {
+    "name": "Abu Dhabi Housing Authority",
+    "imageUrl": "/sites/default/files/2022-07/Abu Dhabi Housing Authority.png",
+    "description": "ADHA's remit is to work on the development and implementation of housing programs for the citizens propose rules and legislations. Also, building and maintaining a central database of the citizens, and identifying tools and frameworks to engage the private sector towards the achievements of ADHA's vision and aspirations.ADHA's vision focuses on providing decent housing that meets the needs and special requirements of all citizens of the Emirate of Abu Dhabi. Such vision includes terms of preferences of the citizen including but not limited to, location, design, size and cultural values.",
+    "searchUrl":"/search/?publisher__name=Abu Dhabi Housing Authority"
+   },
+   {
+    "name": "Abu Dhabi Centre for Technical and Vocational Education and Training",
+    "imageUrl": "/sites/default/files/2022-07/Abu Dhabi Centre for Technical and Vocational Education and Training.png",
+    "description": "The Abu Dhabi Centre for Technical and Vocational Education and Training (ACTVET) was established under the directive of His Highness Sheikh Mohamed bin Zayed Al Nahyan .",
+    "searchUrl":"/search/?publisher__name=Abu Dhabi Centre for Technical and Vocational Education and Training"
+   },
+    {
+    "name": "Department of Community Development",
+    "imageUrl": "/sites/default/files/2022-07/Department of Community Development.jpg",
+    "description": "As the custodian of Abu Dhabi's social sector agenda, we strive to raise the quality of services in the sector, create an inclusive and cohesive society in the Emirate, provide opportunities and services for all individuals in Abu Dhabi to grow economically and socially, build integrated communities, and ensure a decent standard of living for all members of the community..",
+    "searchUrl":"/search/?publisher__name=Department of Community Development"
+   },
+   {
+    "name": "Department of Community Development",
+    "imageUrl": "/sites/default/files/2022-07/Department of Community Development.jpg",
+    "description": "As the custodian of Abu Dhabi's social sector agenda, we strive to raise the quality of services in the sector, create an inclusive and cohesive society in the Emirate, provide opportunities and services for all individuals in Abu Dhabi to grow economically and socially, build integrated communities, and ensure a decent standard of living for all members of the community..",
+    "searchUrl":"/search/?publisher__name=Department of Community Development"
+   },
+    {
+    "name": "Department of Education and Knowledge",
+    "imageUrl": "/sites/default/files/2022-07/Department of Education and Knowledge.png",
+    "description": "main role is to develop the education system in Abu Dhabi, and promote a culture of creativity, sustainability and excellence, with a focus on developing human, social and economic capabilities.",
+    "searchUrl":"/search/?publisher__name=Department of Education and Knowledge"
+   },
+    {
+    "name": "Department of Health ",
+    "imageUrl": "/sites/default/files/2022-07/Department of Health.png",
+    "description": "Department of Health -Abu Dhabi is the regulative body of the Healthcare Sector in the Emirate of Abu Dhabi and ensures excellence in Healthcare for the community by monitoring the health status of the population.",
+    "searchUrl":"/search/?publisher__name=Department of Health "
+   },
+   {
+    "name": "Social Care and Minors Affairs Foundation",
+    "imageUrl": "/sites/default/files/2022-07/Social Care and Minors Affairs Foundation.png",
+    "description": "Outcome of the Social Welfare Foundation and the affairs of Algosraly itself from the outset play a central role in advancing social development in the Emirate of Abu Dhabi, it has taken upon itself in order to achieve this bear responsibility of the major adopting integrated care methodology in the social care and legal advice and wealth management and development of the chip areas on the high degree of of importance in the community, namely minors and interdicted by slice, and the like.",
+    "searchUrl":"/search/?publisher__name=Social Care and Minors Affairs Foundation"
+   },
+   {
+    "name": "Environment Agency Abu Dhabi",
+    "imageUrl": "/sites/default/files/2022-07/Environment Agency Abu Dhabi.png",
+    "description": "",
+    "searchUrl":"/search/?publisher__name=Environment Agency Abu Dhabi"
+   },
+   {
+    "name": "Statistics Centre Abu Dhabi ",
+    "imageUrl": "/sites/default/files/2022-07/Statistics Centre Abu Dhabi.png",
+    "description": "Statistics Centre Abu Dhabi (SCAD) is the official source of statistical data in Abu Dhabi Emirate. It was established on 28 April 2008, in accordance with Law No. (7) 2008, promulgated under a decree by HH Sheikh Khalifa bin Zayed Al Nahyan (may Allah protect him). The Law entrusts SCAD with the task of developing and organizing statistical work including the production, analysis, and dissemination of official statistics in Abu Dhabi Emirate.",
+    "searchUrl":"/search/?publisher__name=Statistics Centre Abu Dhabi"
+   },
+    {
+    "name": "Department of Culture and Tourism ",
+    "imageUrl": "/sites/default/files/2022-07/Department of Culture and Tourism.png",
+    "description": "The Department of Culture and Tourism - Abu Dhabi regulates, develops and promotes the emirate of Abu Dhabi as an extraordinary global destination, rich in cultural .",
+    "searchUrl":"/search/?publisher__name=Department of Culture and Tourism"
+   }, 
+    {
+    "name": "Human Resources Authority ",
+    "imageUrl": "/sites/default/files/2022-07/Human Resources Authority.png",
+    "description": "The Human Resources Authority of the Emirate of Abu Dhabi, as a governmental body with legal personality, enjoys full legal capacity to act and is affiliated with the Executive Council, according to Law No. (7) of 2015 of His Highness Sheikh Khalifa bin Zayed Al Nahyan, President of the United Arab Emirates, in his capacity as Ruler of the Emirate of Abu Dhabi, to replace Abu Dhabi Council for Emiratization, each of the civil sector, and the Abu Dhabi Center for Government Leadership in the Joint Public Committee.",
+    "searchUrl":"/search/?publisher__name=Human Resources Authority"
+   }, 
+    {
+    "name": "Abu Dhabi Sewerage Services Company",
+    "imageUrl": "/sites/default/files/2022-07/Abu Dhabi Sewerage Services Company_0.png",
+    "description": "Under resolution No 17 of 2007 issued by H.H. Sheikh Khalifa bin Zayed Al Nahyan, president of United Arab Emirates, Abu Dhabi Sewerage Services Company (ADSSC) was established on 21st of June 2005, to collect and treat waste-water discharged from all residential and commercial customers in the Emirate of Abu Dhabi and safely dispose both the solid and liquid waste thereof.",
+    "searchUrl":"/search/?publisher__name=Abu Dhabi Sewerage Services Company"
+   }, 
+    {
+    "name": "Abu Dhabi Pension Fund",
+    "imageUrl": "/sites/default/files/2022-07/Abu Dhabi Pension Fund_0.png",
+    "description": "The Abu Dhabi Pension Fund (ADPF) is an important Abu Dhabi Government entity. The Fund was founded in 2000 to manage contributions, pensions and end-of-service benefits for UAE nationals working in or retired from the government and private sectors in the Emirate of Abu Dhabi and their beneficiaries.",
+    "searchUrl":"/search/?publisher__name=Abu Dhabi Pension Fund"
+   }, 
+   {
+    "name": "Abu Dhabi Chamber of Commerce",
+    "imageUrl": "/sites/default/files/2022-07/Abu Dhabi Chamber of Commerce.png",
+    "description": "Established in 1969, the Abu Dhabi Chamber of Commerce was born out of the need to forge a unified body to support, promote, enhance and protect the business interests of enterprises in the emirate. By doing so, we remain true to our purpose, which is to be the voice of the business community of Abu Dhabi.Guided by the wise leadership of the UAE, our objectives and tasks are in line with the Abu Dhabi Vision 2030, which positions the emirate to be the leading hub of a knowledge-based economy. We are an active strategic partner of the government in strengthening the regulatory framework in the market, drenching it with overflowing high value-adding sectors.",
+    "searchUrl":"/search/?publisher__name=Abu Dhabi Chamber of Commerce"
+   }, 
+   {
+    "name": "Zayed Higher Organization",
+    "imageUrl": "/sites/default/files/2022-07/Zayed Higher Organization.png",
+    "description": "With the aim of aligning and consolidating the efforts made in the field of People of Determination care, and as per the directives of the late Sheikh Zayed Bin Sultan Al Nahyan (may his soul rest in peace), H.H. Sheikh Khalifa Bin Zayed AÃ¢â‚¬â€¹l Nahyan, President, issued, during his tenure as Crown Prince of Abu Dhabi, the Law No. (2) dated April 19, 2004, establishing Zayed Higher Organization for People of Determination (ZHO) in the emirate of Abu Dhabi, as an umbrella for all humanitarian bodies, social services, people of determination institutions and any future bodies established in Abu Dhabi for humanitarian goals. The Amiri decree No. (7), for the year 2014, has been issued, on 29/05/2014, forming a new Board of Directors for Zayed Higher Organization for People of Determination, chaired by H.H. Sheikh Khalid bin Zayed Al Nahyan.",
+    "searchUrl":"/search/?publisher__name=Zayed Higher Organization"
+   }, 
+   {
+    "name": "Public Institution of the Zoo and Aquarium in Al Ain (Al Ain ZOO)",
+    "imageUrl": "/sites/default/files/2022-07/Public Institution of the Zoo and Aquarium in Al Ain (Al Ain ZOO).png",
+    "description": "The zoo was established by the late Sheikh Zayed bin Sultan Al Nahyan in 1968. Our zoo is one of the most important and diverse tourism attractions on both local and global level.As the largest zoo of its type in the Middle East, and for more than 50 years, our zoo has continued to convey the pioneering vision of the late Sheikh Zayed, demonstrating his keenness to preserve wildlife in the United Arab Emirates by preserving the environment and sustaining its resources in accordance with the best global standards.",
+    "searchUrl":"/search/?publisher__name=Public Institution of the Zoo and Aquarium in Al Ain (Al Ain ZOO)"
+   }, 
+   {
+    "name": "Abu Dhabi Police",
+    "imageUrl": "/sites/default/files/2022-07/Abu Dhabi Police_0.png",
+    "description": "Vision: To ensure that Abu Dhabi remains a safe and secure society by providing high quality policing services to the citizens, residents and visitors of the Emirate.Mission: To strive for a safe and secure society, achieving stability, reducing crime and contributing to the delivery of justice in a way that ensures public confidence in the police.",
+    "searchUrl":"/search/?publisher__name=Abu Dhabi Police"
+   }, 
+   {
+    "name": "General Administration Of Customs",
+    "imageUrl": "/sites/default/files/2022-07/General Administration Of Customs_0.png",
+    "description": "he General Administration of Customs, Abu Dhabi is a governmental entity that aims to implement the customs policy prescribed by authorities. The supervision of goods export, import, and re-export as well as the collection of customs duties assessed on goods in accordance with the laws and regulations of the authorities.Abu Dhabi Customs uses the latest detection and computer systems for the development of work and to facilitate customs inspections while completing transactions quickly and accurately. Non-Intrusive Inspection technology is becoming a cornerstone of Abu Dhabi Customs layered enforcement strategy. Technologies used at our air, sea, and land border posts include large-scale X-ray -imaging systems as well as portable and hand-held technologies, including radiation detection equipment.",
+    "searchUrl":"/search/?publisher__name=General Administration Of Customs"
+   }, 
+   {
+    "name": "Authority Of Social Contribution - Maan",
+    "imageUrl": "/sites/default/files/2022-07/Authority of Social Contribution logo.jpg",
+    "description": "Established by the Department of Community Development in February 2019, the Authority of social Contribution Ma'an has been bringing the government, private sector, and civil society together to help drive social innovation and build a culture of social contribution and participation while aiming to strengthen Abu Dhabi's position as one of the best global destinations to work and live in.",
+    "searchUrl":"/search/?publisher__name=Authority Of Social Contribution - Ma'an"
+   }, 
+   {
+    "name": "Khalifa University",
+    "imageUrl": "/sites/default/files/2022-07/Khalifa University_1.png",
+    "description": "The internationally top-ranked Khalifa University of Science and Technology is the one university in the UAE with the research and academic programs that address the entire range of strategic, scientific and industrial challenges facing the UAEs knowledge economy transformation and our rapidly evolving world.Its world-class faculty and state-of-the-art research facilities provide an unparalleled learning experience to students from the UAE and around the world. The university brings together the best in science, engineering and medicine in the UAE, to offer specialized degrees that can take promising high school graduates all the way to top-rated doctorate degree holders.",
+    "searchUrl":"/search/?publisher__name=Khalifa University"
+   }, 
+   {
+    "name": "International Fund for Houbara Conservation",
+    "imageUrl": "/sites/default/files/2022-07/International Fund for Houbara Conservation logo.jpg",
+    "description": "",
+    "searchUrl":"/search/?publisher__name=International Fund for Houbara Conservation"
+   }, 
+   {
+    "name": "Abu Dhabi School of Government",
+    "imageUrl": "/sites/default/files/2022-07/Abu Dhabi School of Government.png",
+    "description": "The Abu Dhabi School of Government (ADSG) plans and oversees the development of government employees via high-quality programs based on global best practice.ADSG is reshaping the culture of learning and supports Abu DhabiÃ¢â‚¬â„¢s ambition to build a sustainable and open economy, driven by a confident society and innovation through world-class initiatives, partnerships, and technology.",
+    "searchUrl":"/search/?publisher__name=Abu Dhabi School of Government"
+   }, 
+   {
+    "name": "Telecommunications Regulatory Authority",
+    "imageUrl": "/sites/default/files/2022-07/Communication Regulatory Authority - TDRA-logo.jpg",
+    "description": "The Telecommunications Regulatory Authority (TRA) of the United Arab Emirates (UAE) was established according to the UAE Federal Law by Decree No. 3 of 2003 Telecom Law, on regulating the telecommunications sector in the UAE. Since its establishment, the TRA has exceeded expectations by achieving its projected goals in record time.The role of TRA focuses on two fields: regulating the telecommunications sector, and enabling government entities in the field of smart transformation.",
+    "searchUrl":"/search/?publisher__name=Telecommunications Regulatory Authority"
+   }, 
+   {
+    "name": "Zakat Fund",
+    "imageUrl": "/sites/default/files/2022-07/Zakat Fund.jpg",
+    "description": "The Fund is a public body and an independent legal person having the legal capacity to undertake all procedures and actions to achieve its objectives. It works under the Council of Ministers, and submits to it periodic reports on its work, activities and achievement of its objectives.",
+    "searchUrl":"/search/?publisher__name=Zakat Fund"
+   }, 
+   {
+    "name": "Al Ain Distribution Company",
+    "imageUrl": "/sites/default/files/2022-07/Al Ain Distribution Company.jpg",
+    "description": "Al Ain Distribution Company (AADC) is a public joint stock company registered and incorporated in the United Arab Emirates under Law No 2 of 1998 on 1 January 1999 with Head Office at Al Ain. AADC is a wholly owned subsidiary of Abu Dhabi National Energy Company (TAQA) with a fully paid capital of AED Billion 1,530,000,000.",
+    "searchUrl":"/search/?publisher__name=Al Ain Distribution Company"
+   }, 
+   {
+    "name": "Emirates Foundation",
+    "imageUrl": "/sites/default/files/2022-07/Emirates Foundation.png",
+    "description": "Emirates Foundation is an independent organization set up by the Government of the Emirate of Abu Dhabi to facilitate public-private funded initiatives to improve the welfare of youth across the UAE",
+    "searchUrl":"/search/?publisher__name=Emirates Foundation"
+   }, 
+   {
+    "name": "National Qualification Authority",
+    "imageUrl": "/sites/default/files/2022-07/National Qualifications Authority.png",
+    "description": "The National Qualifications Authority (NQA) was established by Federal Decree No. 1 of 2010 issued by His Highness Shaikh Khalifa Bin Zayed Al Nahyan (May God bless him) ",
+    "searchUrl":"/search/?publisher__name=National Qualification Authority"
+   }, 
+   {
+    "name": "Abu Dhabi Chamber of Commerce",
+    "imageUrl": "/sites/default/files/2022-07/Abu Dhabi Chamber of Commerce.png",
+    "description": "Established in 1969, the Abu Dhabi Chamber of Commerce was born out of the need to forge a unified body to support, promote, enhance and protect the business interests of enterprises in the emirate. By doing so, we remain true to our purpose, which is to be the voice of the business community of Abu Dhabi.Guided by the wise leadership of the UAE, our objectives and tasks are in line with the Abu Dhabi Vision 2030, which positions the emirate to be the leading hub of a knowledge-based economy. We are an active strategic partner of the government in strengthening the regulatory framework in the market, drenching it with overflowing high value-adding sectors.",
+    "searchUrl":"/search/?publisher__name=Abu Dhabi Chamber of Commerce"
+   }
+   
+      
+]
+

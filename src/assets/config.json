@@ -1,0 +1,9 @@
+{
+  "container": "container",
+  "site": "Open Data Catalog",
+  "slogan": "Your slogan here.",
+  "logo": "https://dkan-default-content-files.s3.amazonaws.com/files/logo.svg",
+  "logo1": "/assets/odp_logo.png",
+  "logo2": "/assets/odp_logo_new.png",
+  "logo3": "/assets/emirates-logo-png.png"
+}

@@ -1,0 +1,75 @@
+{
+  "name": "@civicactions/data-catalog-app",
+  "version": "1.1.810.2022",
+  "private": false,
+  "homepage": "/frontend/build",
+  "dependencies": {
+    "@civicactions/data-catalog-components": "^1.13.0",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
+    "@fortawesome/free-regular-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@reach/router": "^1.3.4",
+    "@react-icons/all-files": "^4.1.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^14.3.0",
+    "airbnb": "^0.0.2",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
+    "buffer": "^6.0.3",
+    "canvasjs": "^1.8.3",
+    "captcha-image": "^1.2.6",
+    "chart.js": "^3.8.0",
+    "demos-react-captcha": "^1.0.11",
+    "excerpts": "^0.0.3",
+    "font-awesome": "^4.7.0",
+    "i18next": "^21.8.14",
+    "i18next-browser-languagedetector": "^6.1.4",
+    "i18next-http-backend": "^1.4.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^4.3.1",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-i18next": "^11.18.1",
+    "react-icons": "^4.4.0",
+    "react-js-pagination": "^3.0.3",
+    "react-loader-advanced": "^1.7.1",
+    "react-loading-spin": "^2.1.9",
+    "react-paginate": "^8.1.3",
+    "react-recaptcha": "^2.3.10",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "reactstrap": "^9.1.2",
+    "sass": "^1.53.0",
+    "swagger-ui-react": "4.13.0",
+    "xlsx": "^0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.3",
+    "@testing-library/dom": "^8.16.0",
+    "eslint-plugin-cypress": "^2.12.1"
+  }
+}
